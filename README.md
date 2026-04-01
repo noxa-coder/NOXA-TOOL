@@ -31,3 +31,6 @@ Clone the repository or download the source files, then install the required dep
 
 ```bash
 pip install requests phonenumbers colorama pyinstaller
+
+```bash
+pip install bcrypt
